@@ -629,4 +629,12 @@ let data = [
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
 }
+{
+  name: "Python Tutorial for Beginners",
+  instructor: "Codewithharry",
+  url:"https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA",
+  description: "This is python tutorial for beginners in hindi",
+  image: "python.png",
+  tags: ["Python", "Hindi"],
+}
 ];
